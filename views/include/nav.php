@@ -2,7 +2,7 @@
     <!-- Image and text -->
 
     <a class="navbar-brand" href="index.php?action=home">
-        <img src="images/logo.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
+        <img src="images/logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
         QuickShop
     </a>
 
